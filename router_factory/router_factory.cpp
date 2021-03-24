@@ -1,4 +1,4 @@
-// using the Prototype pattern w/ Factory
+// using Factory
 // @to-do all:
 // build choices from script (input string)
 // use Meyers' singleton for: protocol, host, lang, topic
